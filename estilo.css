@@ -1,0 +1,22 @@
+* {
+	font-family: "Arial";
+}
+h1 {
+	font-weight: normal;
+	text-align: center;
+	color: blue;
+}
+input {
+	text-align: center;
+	widht: 300px;
+}
+button {
+	background-color: blue;
+	color: white;
+	height: 35px;
+	width: 175px;
+	font-weight: bold;
+}
+textarea {
+	widht: 625px;
+}
